@@ -1,0 +1,4 @@
+1 mkdir ck-git
+2 cd ck-git
+3 git init
+4 
