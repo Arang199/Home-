@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Arang2747/Home-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Arang2747](https://arang2747.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arang2747/Home-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arang2747/Home-/settings). The name of this theme is saved in the Arang2747 `_config.yml` configuration file.
 
 ### Support or Contact
 
